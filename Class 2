@@ -34,11 +34,11 @@ neighbors’ ages, and output the average age.
 
 
 ```python
-print("Specify his own age, his two neighbors ages, and output the average age")
-age= input("How old are you?")
-neighbor1= input("How old is neighbor1")
-neighbor2= input("How old is neighbor2")
-print("Your average age between you two would be ", (int(age)+int(neighbor1)+int(neighbor2))/3)
+    print("Specify his own age, his two neighbors ages, and output the average age")
+    age= input("How old are you?")
+    neighbor1= input("How old is neighbor1")
+    neighbor2= input("How old is neighbor2")
+    print("Your average age between you two would be ", (int(age)+int(neighbor1)+int(neighbor2))/3)
 ```
 
 
